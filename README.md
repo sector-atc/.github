@@ -18,6 +18,6 @@ Submit only material you own or have explicit permission to publish. Every exter
 
 SECTOR is independent and is not affiliated with, endorsed by, or officially approved by VATSIM. It is not for real-world air traffic control.
 
-## License decision pending
+## Licensing
 
-No open-source license has been selected. Public source availability does not grant a general right to use, modify, or redistribute it. License selection requires maintainer consent.
+SECTOR-authored software is licensed under **AGPL-3.0-only**. Prose documentation, branding, and datasets require separate content licensing. Third-party terms are preserved. See [licensing scope](LICENSING.md) and [license text](LICENSE).

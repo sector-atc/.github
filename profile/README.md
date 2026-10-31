@@ -10,4 +10,4 @@ Start with the [main repository](https://github.com/sector-atc/sector), [roadmap
 
 SECTOR is independent and is not affiliated with, endorsed by, or officially approved by VATSIM. It is not for real-world air traffic control.
 
-**Licensing is pending an explicit maintainer decision.**
+**Software: AGPL-3.0-only.** Documentation and data licensing are separate; see each repository’s LICENSING.md.
