@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+
 # Security reporting
 
 SECTOR is pre-release and has no supported production versions. Do not use it for real-world ATC or assume live-network approval.

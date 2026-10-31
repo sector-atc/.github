@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+
 # Community conduct
 
 Be respectful and constructive. Harassment, discrimination, threats, doxxing, and publication of private information are unacceptable. Critique ideas and code rather than people.
